@@ -86,7 +86,7 @@ const SignUp: React.FC = () => {
               />
 
               <Button name="btn-submit" type="submit">
-                Submit
+                Register
               </Button>
             </Form>
 

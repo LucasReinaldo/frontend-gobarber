@@ -80,7 +80,7 @@ const SignIn: React.FC = () => {
               />
 
               <Button name="btn-submit" type="submit">
-                Submit
+                Sign in
               </Button>
 
               <Link to="/forgot-password">
