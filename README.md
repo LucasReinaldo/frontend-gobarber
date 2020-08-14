@@ -54,9 +54,9 @@ VS Code with EditorConfig and ESLint
 
 ## 📚 How To Use
 
-To clone and run this application, you'll need Git, Node.js + Yarn installed on your computer and the [GoBarber Backend](https://github.com/LucasReinaldo/backend-gobarber). 
+To clone and run this application, we will need NodeJS + Yarn (or NPM) installed on computer and the [GoBarber Backend API](https://github.com/LucasReinaldo/backend-gobarber). 
 
-From your command line:
+After clone the repository, from our command line type:
 
 ```
 # Clone this repository
