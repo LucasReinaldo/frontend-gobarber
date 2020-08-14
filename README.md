@@ -1,5 +1,5 @@
 <h1 align="center">GoBarber Web</h1>
-<p align="center">Webpage that shows to the barber his agenda for the day, week, month..</p>
+<p align="center">A Webpage that shows to the barber his agenda for the day, week, month..</p>
 
 <h1 align="center">
     <img src="https://github.com/LucasReinaldo/frontend-gobarber/blob/master/assets/SignIn.png" alt="Login" width="680" />
