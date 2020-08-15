@@ -8,7 +8,7 @@
 
 ## 💻 Project
 
-The Webpage is basically a dashboard that shows a calendar e the customers of the day, according to the selected date.
+The Webpage is basically a dashboard that shows a calendar and the customers of the day, according to the selected date.
 
 ## 🚀 Technologies
 
